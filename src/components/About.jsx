@@ -1,7 +1,7 @@
 import React from 'react'
 import {Typewriter} from 'react-simple-typewriter';
 import Tilt from 'react-parallax-tilt';
-import profileImage from '../assets/GOPR0440.jpg'
+import profileImage from '../assets/GOPR0440.JPG'
 
 
 export default function About() {
