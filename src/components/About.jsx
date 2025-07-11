@@ -40,7 +40,7 @@ export default function About() {
          I'm an enthusiastic and self-driven Data Science student with a solid foundation in programming, data analysis, and statistical modeling. I enjoy uncovering insights from data and solving real-world problems through analytical and machine learning techniques. With hands-on experience in Python, SQL, and data visualization tools, I continuously seek opportunities to explore, innovate, and grow. I'm passionate about learning, collaborating, and making a meaningful impact through data-driven projects.
         </p>
         {/* Resume */}
-        <a href='https://drive.google.com/file/d/16dx2mSvjoI-hCFAcFRh904OkOvkMWy-y/view?usp=sharing'
+        <a href='https://drive.google.com/file/d/1faaC514ViK8RKNGpRcNO8Fk9YaUyxE1I/view?usp=sharing'
         target='_blank'
         rel='noopener noreferrer'
         className='inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105'
