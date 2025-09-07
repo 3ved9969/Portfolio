@@ -1,5 +1,7 @@
 # React + Vite
 
+to ensure the portfolio visit "https://portfolio-o1jq.onrender.com/".
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
